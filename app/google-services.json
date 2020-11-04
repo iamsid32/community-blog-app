@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540168865998",
+    "firebase_url": "https://community-blog-app-dd460.firebaseio.com",
+    "project_id": "community-blog-app-dd460",
+    "storage_bucket": "community-blog-app-dd460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540168865998:android:bb05e0961e984f4da4e89f",
+        "android_client_info": {
+          "package_name": "com.example.communityblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540168865998-jft2adjqh5pvn0duk9kaggm4rsr2e8a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoe1PmjpSfUOX_8L-SMmN0kCFpiSBQOHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540168865998-jft2adjqh5pvn0duk9kaggm4rsr2e8a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
